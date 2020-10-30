@@ -85,6 +85,10 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
       * Player Homes: Enabled
   * Craftloot
     * Craftloot Status: Prompt
+    
+* LOTD: The Curators Companion
+  * moreHUD & Scan
+    - Museum Scan Notifications: Disabled
 
 * NCGD
   * Health leveling rate: 500
