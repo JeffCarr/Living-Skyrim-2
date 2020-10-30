@@ -75,7 +75,7 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 
 * Lucien
   * Configuration
-    * (Optional, only if using one of the names on the list) Player Name: Pick yours
+    * (Optional, only if using one of the names on [the list](https://josephrussellauthor.com/Lucien_Names.html)) Player Name: Pick yours
 
 * LOTD Settings
   * General
