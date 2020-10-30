@@ -9,26 +9,26 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 
 * A Matter of Time
   * Presets
-    * Click on "Load user settings" and confirm.
+    - Click on "Load user settings" and confirm.
 
 * Archery Gameplay Overhaul (AGO)
-  - Settings
+  * Settings
     - Persistent Arrows: Disabled
     - Arm Fatigue: Disabled
 
 * All Geared Up Derivative
-  - Misc - Player
+  * Misc - Player
     - Enable Misc Items Display: Disabled
-  - NPC
+  * NPC
     - Enable Weapons: Enabled
     - Enable Misc Item Display: Disabled
 
 * Campfire
   * Profiles
-    * Select and enable the LS2 Campfire Config profile
+    - Select and enable the LS2 Campfire Config profile
 
 * Deadly Dragons
-  - Dragons
+  * Dragons
     - Difficulty: Expert
   
 * Destructible Display Cases
@@ -37,12 +37,12 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   - Shouts: Disabled
 
 * Diverse Dragons
-  - Dragons 
+  * Dragons 
     - Sanguine: Disabled
     - Vile: Disabled
 
 * Farmhouse Chimneys
-  - Mod support
+  * Mod support
     - Darkwater Crossing: Enabled
     - Kynesgrove: Enabled
     - Shor’s Stone: Enabled
@@ -56,9 +56,9 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   * **Important!: DO NOT import Lucien or Inigo into NFF. It will completely break them. Sofia, Auri, and 3DNPCs will automatically import a short time after meeting them and asking them to follow you.**
 
 * I'm A Customer
-  * Eating Locations: At Home Only
-  * Eating Method: With Fork Equipped (If you have trouble finding a fork, click Fork Me.)
-  * Infinite Food: At Home Only
+  - Eating Locations: At Home Only
+  - Eating Method: With Fork Equipped (If you have trouble finding a fork, click Fork Me.)
+  - Infinite Food: At Home Only
 
 * Immersive Spell Learning
   - Use Fade-To-Black: Disabled
@@ -67,118 +67,119 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 
 * Immersive Encounters
   * New Events Toggle
-    * Custom Voice WE Events: Disabled
-    * Custom Voice WI Events: Disabled
-    * Enable Tavern Brawl: Disabled
-    * Enable Town Thief: Disabled
-    * Dragon Attack in City: Disabled
+    - Custom Voice WE Events: Disabled
+    - Custom Voice WI Events: Disabled
+    - Enable Tavern Brawl: Disabled
+    - Enable Town Thief: Disabled
+   - Dragon Attack in City: Disabled
 
 * Lucien
   * Configuration
-    * (Optional, only if using one of the names on [the list](https://josephrussellauthor.com/Lucien_Names.html)) Player Name: Pick yours
+    - (Optional, only if using one of the names on [the list](https://josephrussellauthor.com/Lucien_Names.html)) Player Name: Pick yours
 
 * LOTD Settings
   * General
     * Shipment Crate Locations
-      * Carriages: Enabled
-      * Inns: Enabled
-      * Player Homes: Enabled
+      - Carriages: Enabled
+      - Inns: Enabled
+      - Player Homes: Enabled
   * Craftloot
-    * Craftloot Status: Prompt
+    - Craftloot Status: Prompt
     
 * LOTD: The Curators Companion
   * moreHUD & Scan
     - Museum Scan Notifications: Disabled
 
 * NCGD
-  * Health leveling rate: 500
-  * Stamina leveling rate: 500
-  * Magicka leveling rate: 500
-  * Carry weight leveling rate: 750
+  - Health leveling rate: 500
+  - Stamina leveling rate: 500
+  - Magicka leveling rate: 500
+  - Carry weight leveling rate: 750
 
 * OBIS
-  - Settings
+  * Settings
     - Enable?: Enabled
 
 * OBIS Patrols
   * Settings
-    * Enable?: Enabled
+    - Enable?: Enabled
 
 * Predator Vision
   - Night Vision Color: 50%
   - Predator Vision Color Boost: 70%
 
 * Quick Light
-  * Brightness: Bright
+  - Brightness: Bright
 
 * Realistic Water Two
   * Mod Options
-    * Kynesgrove: Enabled
+    - Kynesgrove: Enabled
 
 * SkyUI
   * General
-    * Font Size: Small
+    - Font Size: Small
 
 * Storm Lightning
-  - Presets: Realistic
-  - Settings 
+  * Presets
+    - Realistic
+  * Settings 
     - Minimum Fork Distance: 1
 
 * Take Notes
-  - Controls 
+  * Controls 
     - Open Journal: Anything other than X
 
 * tK dodge
   - Dodge key: Whatever you want. I use Mouse 4.
   - Double Tap Input: Disabled
-  - Optional, Controller Only:
+  * Optional, Controller Only:
     - Input Method: Gamepad
 
 * Thieves Guild Req.
-  - Main Quest
+  * Main Quest
     - Pockets Picked: 10
     - Items Stolen: 100
 
 * Ultimate Combat
   * General
     * Timed Block
-      * Effective Time: 0
+      - Effective Time: 0
     * Stagger
-      * Player Stagger: Disabled
-      * Enemy Poise: Disabled
-      * NPC's Bow Poise: 0
-      * Player's Bow Poise: 0
+      - Player Stagger: Disabled
+      - Enemy Poise: Disabled
+      - NPC's Bow Poise: 0
+      - Player's Bow Poise: 0
     * Game Balance Settings
-      * Speed Bonus: Disabled
+      - Speed Bonus: Disabled
     * Locational Damage
-      * Headshot Damage Mult: 0
-      * Headshot Message: Disabled
-      * Locational Damage Sound: Disabled
-      * Locational Damage Effect: Disabled
+      - Headshot Damage Mult: 0
+      - Headshot Message: Disabled
+      - Locational Damage Sound: Disabled
+      - Locational Damage Effect: Disabled
     * Others
-      * Swing Effect: Disabled
+      - Swing Effect: Disabled
   * NPC Setting
     * NPC
-      * Dodge: Middle
+      - Dodge: Middle
     * Giant
-      * Max HP Scale: MaxHP * 1.0
+      - Max HP Scale: MaxHP * 1.0
     * Dwarven Centurion
-      * HP Mult: HP * 1.0
+      - HP Mult: HP * 1.0
     * Dragon Priest
-      * HP Mult: HP * 1.0
+      - HP Mult: HP * 1.0
 
 * VioLens
-  - Profile System
+  * Profile System
     - Load: LS2 Violens Config
 
 * Wildcat Combat 
-  - Difficulty 
+  * Difficulty 
     - Disable Injuries: Enabled
     - Allow Wildcat to Manage Difficulty: Enabled
     - Timed Block: Disabled
 
 * XPMSE
-  - Styles
+  * Styles
     - Sword Style Player ONLY: Sword on Back (both left and right)
     - Dagger Style Player ONLY: Dagger on Back Hip (both left and right)
     - Quiver Player ONLY: Frostfall Quiver
@@ -192,31 +193,31 @@ Open your Magic menu and select "Reflect..." from the powers menu. Press your Sh
 * iEquip
 * You can configure iEquip how you want, but I recommend the following.
   * General settings
-    * iEquip On: Enabled
-    * Now exit the menu and wait for the widget to appear.
+    - iEquip On: Enabled
+    - Now exit the menu and wait for the widget to appear.
   * Queue Options
     * Item caching and blacklisting
-      * Blacklist Manually Removed Items: Enabled
+      - Blacklist Manually Removed Items: Enabled
   * Misc UI Options
-    * Enable Widget Fadeout: Enabled
-    * Fadeout Delay: 5
-    * Fadeout Speed: Fast
+    - Enable Widget Fadeout: Enabled
+    - Fadeout Delay: 5
+    - Fadeout Speed: Fast
 
 * Genesis Unleashed
   * Genesis Settings
-    * Mod is Active: Enabled
-    * Max Number of Dungeon Spawns: 20
-    * Max Number of Surface Spawns: 0
-    * Disable Surface Spawns: Enabled
-    * Randomize Number of Dungeon Spawns: Enabled
-    * Allow Spawning at Player: Disabled
-    * Spawn if Other Hostiles Near: Disabled
-    * Dispose of the book Genesis Options from your inventory however you choose, this mod's configuration is handled by MCM and the book does nothing. It's a holdover from the previous version of Genesis by the mod author and is redundant.
+    - Mod is Active: Enabled
+    - Max Number of Dungeon Spawns: 20
+    - Max Number of Surface Spawns: 0
+    - Disable Surface Spawns: Enabled
+    - Randomize Number of Dungeon Spawns: Enabled
+    - Allow Spawning at Player: Disabled
+    - Spawn if Other Hostiles Near: Disabled
+    - Dispose of the book Genesis Options from your inventory however you choose, this mod's configuration is handled by MCM and the book does nothing. It's a holdover from the previous version of Genesis by the mod author and is redundant.
 
 * Hunterborn 
-  - Features
+  * Features
     - Click Start Hunterborn, then exit the MCM and wait for the "Hunterborn started!" message to appear in the top left.
-  - Compatibility
+  * Compatibility
     - Compatibility with Hunting in Skyrim: Enabled
 
 **Save your game after completing MCM setup, I promise you do not want to have to do this process more than once.**
