@@ -42,13 +42,13 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     - Vile: Disabled
 
 * Farmhouse Chimneys
-  - Mod support 
-    - Helarchen Creek: Enabled
+  - Mod support
     - Darkwater Crossing: Enabled
     - Kynesgrove: Enabled
     - Shor’s Stone: Enabled
     - Soljund’s Sinkhole: Enabled
     - Whistling Mine: Enabled
+    - Helarchen Creek: Enabled
 
 * Follower Framework
   * System
